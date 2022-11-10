@@ -32,13 +32,19 @@ As shown in the following map, a multi-modal transit network for 20 agencies in 
 ![Day_6_Network](https://user-images.githubusercontent.com/38580581/201137356-3cbe317f-705c-41e0-bc31-4e03d669d895.png)
 
 ## Day 7: Raster
-When I saw today's theme, what came to my mind was Gird2demand, https://lnkd.in/geEJNGpY, which was developed by Dr. Xuesong (Simon) Zhou. It is an open-source trip generation and distribution tool generating zone-to-zone travel demand based on alphanumeric grid zones. Users can customize the size of gride, just like selecting different pixels to analyze the traffic network.
+Gird2demand, https://lnkd.in/geEJNGpY, is an open-source trip generation and distribution tool generating zone-to-zone travel demand based on alphanumeric grid zones. Users can customize the size of gride, just like selecting different pixels to analyze the traffic network.
 
-The following map represents the Market Street gride map. The Gird2demand can read map data from both OpenStreetMap and BBBike. My test dataset and code can be found at https://lnkd.in/gtrYTp4G.
+The following map represents the Market Street gride map. The Gird2demand can read map data from both OpenStreetMap and BBBike. The test dataset and code can be found at https://lnkd.in/gtrYTp4G.
+![Day_7_Raster](https://user-images.githubusercontent.com/38580581/201157580-508cd193-0a5f-470a-8f84-48472f40bbad.png)
 
-For more interesting open-source tools and research, please follow the ASU Trans+AI Lab, https://lnkd.in/gj-Z7eGv.
+## Day 8: Data-OpenStreetMap
+As shown in the following maps, I collected ten maps for interest universities from OpenStreetMap, and then convert them to readable, sharing networks in GMNS format utilizing the OSM2GMNS, https://lnkd.in/gtUx4PKq. You can find the datasets at https://lnkd.in/g6MJjS6M. 
+<img width="1333" alt="Day_8_OSM_1" src="https://user-images.githubusercontent.com/38580581/201158875-8360a3df-e640-4f7b-a337-ddd74d882d56.png">
+<img width="1341" alt="Day_8_OSM_2" src="https://user-images.githubusercontent.com/38580581/201158901-b99a5253-143c-49c9-b0bd-973996aec80b.png">
 
-
+## Day 9: Space
+As shown in the following map, I uitilized MapMatching4GMNS tool, https://lnkd.in/gyAhVN-D, to match TMC locations to the planning network of Loop 303 NorthBound corridor in Arizona.
+<img width="853" alt="Day_9_Space" src="https://user-images.githubusercontent.com/38580581/201159405-34f5757d-ce5d-41ef-92e6-d5356334d66d.png">
 
 
 
