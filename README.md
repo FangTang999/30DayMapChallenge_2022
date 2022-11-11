@@ -46,6 +46,13 @@ As shown in the following maps, I collected ten maps for interest universities f
 As shown in the following map, I uitilized MapMatching4GMNS tool, https://lnkd.in/gyAhVN-D, to match TMC locations to the planning network of Loop 303 NorthBound corridor in Arizona.
 <img width="853" alt="Day_9_Space" src="https://user-images.githubusercontent.com/38580581/201159405-34f5757d-ce5d-41ef-92e6-d5356334d66d.png">
 
+## Day 10: A bad map
+Bad map for modeling? Not a problem. OSM2GMNS, https://lnkd.in/gtUx4PKq, has a solution!
+
+As shown in the following picture, map (1) is a negative example with two signal nodes corresponding to one intersection. Fortunately, the OSM2GMNS tool has a function to consolidate intersections, as shown in (2), from (a) to (b).
+
+Since #openstreetmap has a high map accuracy across 30 Cities, https://lnkd.in/g4nChBye, OSM2GMNS can generate a high-quality network with GMNS format.
+<img width="569" alt="Day_10_Bad_Map" src="https://user-images.githubusercontent.com/38580581/201405136-757beafd-e864-4a8d-9224-39291ff8d443.png">
 
 
 
