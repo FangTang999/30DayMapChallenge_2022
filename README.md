@@ -55,6 +55,11 @@ Since #openstreetmap has a high map accuracy across 30 Cities, https://lnkd.in/g
 
 <img width="569" alt="Day_10_Bad_Map" src="https://user-images.githubusercontent.com/38580581/201405136-757beafd-e864-4a8d-9224-39291ff8d443.png">
 
+## Day 11: Red Friday
+In the transportation field, traffic congestion is often represented by red color, as shown in the following map. The darker the red, the greater volume per lane, which means the more congested the road is.
+
+Is it difficult to identify the congestion bottleneck for your traffic analyses and planning work? Don't worry, an executable, DTALite, developed in ASU Trans+AI Lab can help you easily identify the congestion duration, lowest speed, and time-dependent speed profile. More information can be found at https://lnkd.in/gATzunjT.
+<img width="1052" alt="Day_11_red" src="https://user-images.githubusercontent.com/38580581/201458793-c2641e36-9d85-4c4d-b8f4-8b111f2dd102.png">
 
 
 
