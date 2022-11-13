@@ -61,5 +61,15 @@ In the transportation field, traffic congestion is often represented by red colo
 Is it difficult to identify the congestion bottleneck for your traffic analyses and planning work? Don't worry, an executable, DTALite, developed in ASU Trans+AI Lab can help you easily identify the congestion duration, lowest speed, and time-dependent speed profile. More information can be found at https://lnkd.in/gATzunjT.
 <img width="1052" alt="Day_11_red" src="https://user-images.githubusercontent.com/38580581/201458793-c2641e36-9d85-4c4d-b8f4-8b111f2dd102.png">
 
+## Day 12: Scale
+In the map, scale and resolution are two commonly used terms. These two sizes determine the detail of actual features. Typically, under the same size of map and the same screen resolution, smaller scale, higher resolution, as shown in the following map.
+
+In the transportation map, we consider different resolution networks for different practical purposes. For example,
+(a) Identify congestion bottleneck under a Macro-resolution network,
+(b) Signal timing optimization considering turning movement under a Meso-resolution network, and
+(c) Model behavior, such as lane changing, under a Micro-resolution network.
+
+Preparing high-resolution networks is not easy. Fortunately, OSM2GMNS, https://lnkd.in/giWTVDmW, can help us generate multi-resolution networks within a few seconds.
+<img width="1111" alt="Day_12_Scale" src="https://user-images.githubusercontent.com/38580581/201507342-de586ca3-ee7e-4e69-8ec9-73c41438be33.png">
 
 
